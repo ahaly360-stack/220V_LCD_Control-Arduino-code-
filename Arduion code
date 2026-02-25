@@ -217,7 +217,7 @@ input:checked + .slider:before {
 </div>
 
 <script>
-const correctPassword = "ahmed360"; // الباسورد الخاص بك
+const correctPassword = "ahmed"; // الباسورد الخاص بك
 
 function checkLogin() {
   const pass = document.getElementById("password").value;
